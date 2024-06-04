@@ -82,6 +82,26 @@ Validation is also done with the `LWCTrans_train` command. The general structure
 LWCTrans_train DATASET_NAME_OR_ID UNET_CONFIGURATION FOLD -val
 ```
 
+### 2.1 Baseline Models
+[[H2Former]](https://github.com/NKUhealong/H2Former) </br>
+[[BATFormer]](https://github.com/xianlin7/BATFormer) </br>
+[[HiFormer]](https://github.com/amirhossein-kz/HiFormer) </br>
+[[FAT-Net]](https://github.com/SZUcsh/FAT-Net) </br>
+[[AttnUNet3D]](https://github.com/mobarakol/3D_Attention_UNet) </br>
+[[nnFormer]](https://github.com/282857341/nnFormer) </br>
+[[UNETR]](https://github.com/282857341/nnFormer) </br>
+[[CoTr]](https://github.com/YtongXie/CoTr) </br>
+[[Dformer]](https://github.com/kkk55596/D-Former) </br>
+[[TransHRNet]](https://github.com/duweidai/TransHRNet) </br>
+[[PHTrans]](https://github.com/lseventeen/PHTrans) </br>
+[[nnUNet]](https://github.com/MIC-DKFZ/nnUNet) </br>
+[[LCOV-Net]](https://github.com/afeizqf/LCOVNet) </br>
+[[ADHDC-Net]](https://github.com/hengxinliu/ADHDC-Net) </br>
+[[SlimUNETR]](https://github.com/aigzhusmart/Slim-UNETR) </br>
+
+Note that for all compared methods, to perform fair comparisons, we use the same pre-processing steps (as 1.1 Pre-prcoessing) and the same data split.
+
+
 
 
 ## Acknowledgements
